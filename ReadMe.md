@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 <div align="center">
-  <img src="[프로젝트_대표_이미지_URL_여기에_삽입]" alt="PHAROS 프로젝트 대표 이미지" style="width: 100%; max-width: 100%;">
+  <img src="product_image.JPG" alt="PHAROS 프로젝트 대표 이미지" style="width: 100%; max-width: 100%;">
 </div>
 <br>
 
